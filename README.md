@@ -4,13 +4,13 @@
 This **Library Management System** is a simple yet effective C program designed to handle essential library functions such as adding, deleting, searching, issuing, and returning books. The system allows users to maintain book records efficiently and provides an interactive menu for seamless navigation.
 
 #### 📌 Objective:
-	To enter and preserve details of the various issues and keep a track on their returns
+To enter and preserve details of the various issues and keep a track on their returns
 
 #### 💡 Introduction:
 🔹	A library management system, also known as an automated library system is software that has been developed to handle basic housekeeping functions of a library.
 🔹	It’s a well-organized software solution for a library.
 🔹	It helps to provide information on any book present in library to the user as well as staff member.
-🔹 It keeps a track of book issued, returned and added to library.
+🔹 	It keeps a track of book issued, returned and added to library.
 🔹	It keeps updating and displaying the number of books available in the library.
 
 ### 📝 Proposed System:
