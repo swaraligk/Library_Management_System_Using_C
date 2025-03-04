@@ -25,7 +25,7 @@ To enter and preserve details of the various issues and keep a track on their re
 ✔️ **Display Books** – View all available books in the system.  
 
 ### 🖼️ Block Diagram
-# ![CNCorportion Dashboard](CNCorportion_Dashboard_Powerbi.png)
+# ![LMS_Block_Diagram](LMS_BlockDiagram.png)
 
 #### 🏗️ Technologies Used  
 - Programming Language: **C**  
