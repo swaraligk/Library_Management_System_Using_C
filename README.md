@@ -34,9 +34,9 @@ To enter and preserve details of the various issues and keep a track on their re
 
 #### 🖼️ Screenshots  
 
-# ![CNCorportion Dashboard](CNCorportion_Dashboard_Powerbi.png)
-# ![CNCorportion Dashboard](CNCorportion_Dashboard_Powerbi.png)
-# ![CNCorportion Dashboard](CNCorportion_Dashboard_Powerbi.png)
+# ![LMS_Screenshot](LMS_Screenshot_1.png)
+# ![LMS_Screenshot](LMS_Screenshot_2.png)
+# ![LMS_Screenshot](LMS_Screenshot_3.png)
 
 #### 🛠️ Future Improvements  
 🔹 Implement **file handling** to store book records permanently.  
